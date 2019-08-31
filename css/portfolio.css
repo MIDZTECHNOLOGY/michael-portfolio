@@ -1,0 +1,21 @@
+.body_img{
+    position: fixed;left: 0px; top: -314px; width: 1366px; height:1000px; bottom: auto; right: auto;
+}
+.base{
+    opacity: 1; left: 0px;
+}
+.about{
+    opacity: 0; top: 210px; display: none;
+}
+.link_1{
+    color:#f30b27;
+}
+.subtitle_img{
+    padding: 10px 10px;
+}
+.contact{
+    opacity: 0; top: 210px; display: none;
+}
+.marker{
+    display: inline-block;
+}
